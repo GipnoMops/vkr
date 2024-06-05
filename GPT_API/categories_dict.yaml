@@ -1,0 +1,392 @@
+arts & entertainment: !!set
+  books & literature: null
+  celebrity fan/gossip: null
+  fine art: null
+  humor: null
+  movies: null
+  music: null
+  television: null
+automotive: !!set
+  auto parts: null
+  auto repair: null
+  buying/selling cars: null
+  car culture: null
+  certified pre-owned: null
+  convertible: null
+  coupe: null
+  crossover: null
+  diesel: null
+  electric vehicle: null
+  hatchback: null
+  hybrid: null
+  luxury: null
+  minivan: null
+  motorcycles: null
+  off-road vehicles: null
+  performance vehicles: null
+  pickup: null
+  road-side assistance: null
+  sedan: null
+  trucks & accessories: null
+  vintage cars: null
+  wagon: null
+business: !!set
+  advertising: null
+  agriculture: null
+  biotech/biomedical: null
+  business software: null
+  construction: null
+  forestry: null
+  government: null
+  green solutions: null
+  human resources: null
+  logistics: null
+  marketing: null
+  metals: null
+careers: !!set
+  career advice: null
+  career planning: null
+  college: null
+  financial aid: null
+  job fairs: null
+  job search: null
+  nursing: null
+  resume writing/advice: null
+  scholarships: null
+  telecommuting: null
+  u.s. military: null
+education: !!set
+  45267 education: null
+  adult education: null
+  art history: null
+  college administration: null
+  college life: null
+  distance learning: null
+  english as a 2nd language: null
+  graduate school: null
+  homeschooling: null
+  homework/study tips: null
+  k-6 educators: null
+  language learning: null
+  private school: null
+  special education: null
+  studying business: null
+family & parenting: !!set
+  adoption: null
+  babies & toddlers: null
+  daycare/pre school: null
+  eldercare: null
+  family internet: null
+  parenting - k-6 kids: null
+  parenting teens: null
+  pregnancy: null
+  special needs kids: null
+food & drink: !!set
+  american cuisine: null
+  barbecues & grilling: null
+  cajun/creole: null
+  chinese cuisine: null
+  cocktails/beer: null
+  coffee/tea: null
+  cuisine-specific: null
+  desserts & baking: null
+  dining out: null
+  food allergies: null
+  french cuisine: null
+  health/low-fat cooking: null
+  italian cuisine: null
+  japanese cuisine: null
+  mexican cuisine: null
+  vegan: null
+  vegetarian: null
+  wine: null
+health & fitness: !!set
+  add: null
+  aids/hiv: null
+  allergies: null
+  alternative medicine: null
+  arthritis: null
+  asthma: null
+  autism/pdd: null
+  bipolar disorder: null
+  brain tumor: null
+  cancer: null
+  cholesterol: null
+  chronic fatigue syndrome: null
+  chronic pain: null
+  cold & flu: null
+  deafness: null
+  dental care: null
+  depression: null
+  dermatology: null
+  diabetes: null
+  epilepsy: null
+  exercise: null
+  gerd/acid reflux: null
+  headaches/migraines: null
+  heart disease: null
+  herbs for health: null
+  holistic healing: null
+  "ibs/crohn\u2019s disease": null
+  incest/abuse support: null
+  incontinence: null
+  infertility: null
+  "men\u2019s health": null
+  nutrition: null
+  orthopedics: null
+  panic/anxiety disorders: null
+  pediatrics: null
+  physical therapy: null
+  psychology/psychiatry: null
+  senior health: null
+  sexuality: null
+  sleep disorders: null
+  smoking cessation: null
+  substance abuse: null
+  thyroid disease: null
+  weight loss: null
+  women's health: null
+hobbies & interests: !!set
+  art/technology: null
+  arts & crafts: null
+  beadwork: null
+  bird-watching: null
+  board games/puzzles: null
+  candle & soap making: null
+  card games: null
+  chess: null
+  cigars: null
+  collecting: null
+  comic books: null
+  drawing/sketching: null
+  freelance writing: null
+  genealogy: null
+  getting published: null
+  guitar: null
+  home recording: null
+  investors & patents: null
+  jewelry making: null
+  magic & illusion: null
+  needlework: null
+  painting: null
+  photography: null
+  radio: null
+  roleplaying games: null
+  sci-fi & fantasy: null
+  scrapbooking: null
+  screenwriting: null
+  stamps & coins: null
+  video & computer games: null
+  woodworking: null
+home & garden: !!set
+  appliances: null
+  entertaining: null
+  environmental safety: null
+  gardening: null
+  home repair: null
+  home theater: null
+  interior decorating: null
+  landscaping: null
+  remodeling & construction: null
+illegal content: !!set
+  copyright infringement: null
+  illegal content: null
+  spyware/malware: null
+  warez: null
+law, government, & politics: !!set
+  commentary: null
+  immigration: null
+  legal issues: null
+  politics: null
+  u.s. government resources: null
+news: !!set
+  international news: null
+  local news: null
+  national news: null
+non-standard content: !!set
+  extreme graphic/explicit violence: null
+  hate content: null
+  incentivized: null
+  pornography: null
+  profane content: null
+  under construction: null
+  unmoderated ugc: null
+personal finance: !!set
+  beginning investing: null
+  credit/debt & loans: null
+  financial news: null
+  financial planning: null
+  hedge fund: null
+  insurance: null
+  investing: null
+  mutual funds: null
+  options: null
+  retirement planning: null
+  stocks: null
+  tax planning: null
+pets: !!set
+  aquariums: null
+  birds: null
+  cats: null
+  dogs: null
+  large animals: null
+  reptiles: null
+  veterinary medicine: null
+real estate: !!set
+  apartments: null
+  architects: null
+  buying/selling homes: null
+religion & spirituality: !!set
+  alternative religions: null
+  atheism/agnosticism: null
+  buddhism: null
+  catholicism: null
+  christianity: null
+  hinduism: null
+  islam: null
+  judaism: null
+  latter-day saints: null
+  pagan/wiccan: null
+science: !!set
+  astrology: null
+  biology: null
+  botany: null
+  chemistry: null
+  geography: null
+  geology: null
+  paranormal phenomena: null
+  physics: null
+  space/astronomy: null
+  weather: null
+shopping: !!set
+  comparison: null
+  contests & freebies: null
+  couponing: null
+  engines: null
+society: !!set
+  dating: null
+  divorce support: null
+  ethnic specific: null
+  gay life: null
+  marriage: null
+  senior living: null
+  teens: null
+  weddings: null
+sports: !!set
+  auto racing: null
+  baseball: null
+  bicycling: null
+  bodybuilding: null
+  boxing: null
+  canoeing/kayaking: null
+  cheerleading: null
+  climbing: null
+  cricket: null
+  figure skating: null
+  fly fishing: null
+  football: null
+  freshwater fishing: null
+  game & fish: null
+  golf: null
+  horse racing: null
+  horses: null
+  hunting/shooting: null
+  inline skating: null
+  martial arts: null
+  mountain biking: null
+  nascar racing: null
+  olympics: null
+  paintball: null
+  power & motorcycles: null
+  pro basketball: null
+  pro ice hockey: null
+  rodeo: null
+  rugby: null
+  running/jogging: null
+  sailing: null
+  saltwater fishing: null
+  scuba diving: null
+  skateboarding: null
+  skiing: null
+  snowboarding: null
+  surfing/body-boarding: null
+  swimming: null
+  table tennis/ping-pong: null
+  tennis: null
+  volleyball: null
+  walking: null
+  waterski/wakeboard: null
+  world soccer: null
+style & fashion: !!set
+  accessories: null
+  beauty: null
+  body art: null
+  clothing: null
+  fashion: null
+  jewelry: null
+technology & computing: !!set
+  3-d graphics: null
+  animation: null
+  antivirus software: null
+  c/c++: null
+  cameras & camcorders: null
+  cell phones: null
+  computer certification: null
+  computer networking: null
+  computer peripherals: null
+  computer reviews: null
+  data centers: null
+  databases: null
+  desktop publishing: null
+  desktop video: null
+  email: null
+  entertainment: null
+  graphics software: null
+  home video/dvd: null
+  internet technology: null
+  java: null
+  javascript: null
+  mac support: null
+  mp3/midi: null
+  net conferencing: null
+  net for beginners: null
+  network security: null
+  palmtops/pdas: null
+  pc support: null
+  portable: null
+  shareware/freeware: null
+  unix: null
+  visual basic: null
+  web clip art: null
+  web design/html: null
+  web search: null
+  windows: null
+travel: !!set
+  adventure travel: null
+  africa: null
+  air travel: null
+  australia & new zealand: null
+  bed & breakfasts: null
+  budget travel: null
+  business travel: null
+  by us locale: null
+  camping: null
+  canada: null
+  caribbean: null
+  cruises: null
+  eastern europe: null
+  europe: null
+  france: null
+  greece: null
+  honeymoons/getaways: null
+  hotels: null
+  italy: null
+  japan: null
+  mexico & central america: null
+  national parks: null
+  south america: null
+  spas: null
+  theme parks: null
+  traveling with kids: null
+  united kingdom: null
+uncategorized: !!set {}
